@@ -94,7 +94,7 @@
             display-name = "Default";
             bindings = <
 &kp Q             &kp W  &kp E    &kp R  &kp T                                      &kp Y        &kp U  &kp I      &kp O    &kp P
-&mt LCTRL A             &kp S  &lt 3 D  &kp F  &kp G                                      &kp H        &kp J  &lt 3 K    &kp L    &mt RCTRL MINUS
+&mt LCTRL S       &kp A  &lt 3 D  &kp F  &kp G                                      &kp H        &kp J  &lt 3 K    &kp L    &mt RCTRL MINUS
 &mt LEFT_SHIFT Z  &mt LEFT_WIN X  &mt LEFT_ALT C    &kp V  &kp B                                      &kp N        &kp M  &mt RIGHT_ALT COMMA  &mt RIGHT_WIN DOT  &mt RIGHT_SHIFT SLASH
 &trans  &trans            &lt 1 SPACE  &lt 3 GRAVE    &kp BACKSPACE  &lt 2 ENTER            &trans  &trans
             >;
